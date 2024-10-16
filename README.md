@@ -16,15 +16,15 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 <!-- <p align="left"> <a href="https://twitter.com/newtrisorry" target="blank"><img src="[https://img.shields.io/twitter/follow/newtrisorry?logo=twitter&style=for-the-badge]" alt="newtrisorry" /></a> </p> -->
 
-- 💬 Ask me about **Java , SpringMVC , Springboot , NodeJS , React , Angular**
+- 💬 Ask me about **Python, MySQL, PostgreSQL**
 
-- 🌱 I’m currently exploring **Generative AI and Microservices**
+- 🌱 I’m currently exploring **Java and TensorFlow**
 
 - 📫 How to reach me **ahmadws18@gmail.com**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://ahmadwhet.github.io/)
 
-- ⚡ Fun fact I think I am so **friendly !!**
+- ⚡ Fun fact I think I am so **Funny!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
