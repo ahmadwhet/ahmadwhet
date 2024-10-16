@@ -13,7 +13,7 @@
 <h3 align="center">A passionate problem solver,hardworking and team-oriented person </h3>
 
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
+<img align="right" alt="coding" width="400" src="https://www.cartoonbrew.com/wp-content/uploads/2023/05/pavel_1.gif">
 <!-- <p align="left"> <a href="https://twitter.com/newtrisorry" target="blank"><img src="[https://img.shields.io/twitter/follow/newtrisorry?logo=twitter&style=for-the-badge]" alt="newtrisorry" /></a> </p> -->
 
 - 💬 Ask me about **Python, MySQL, PostgreSQL**
