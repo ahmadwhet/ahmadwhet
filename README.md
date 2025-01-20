@@ -16,7 +16,7 @@
 <img align="right" alt="coding" width="400" src="https://www.cartoonbrew.com/wp-content/uploads/2023/05/pavel_1.gif">
 <!-- <p align="left"> <a href="https://twitter.com/newtrisorry" target="blank"><img src="[https://img.shields.io/twitter/follow/newtrisorry?logo=twitter&style=for-the-badge]" alt="newtrisorry" /></a> </p> -->
 
-- 🌱 I’m currently exploring **Python**
+- 🌱 I’m currently exploring **Python and RouterOS**
 
 - 📫 How to reach me **ahmadws18@gmail.com**
 
