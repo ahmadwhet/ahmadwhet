@@ -42,9 +42,9 @@
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadwhet&theme=aura&show_icons=true&locale=en&layout=compact" alt="ahmadwhet" /></p>-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ahmadwhet&theme=aura&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook,HTML,SCSS)
 
-
+<!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadwhet&&theme=aura" alt="ahmadwhet"/></p>
-
+-->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadwhet&theme=aura&show_icons=true&locale=en" alt="ahmadwhet"/></p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmadwhet&theme=aura) 
